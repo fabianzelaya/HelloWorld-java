@@ -1,4 +1,4 @@
-// :com.fabianzelaya
+// My first Java program
 
 public class Main {
     public static void main(String[] args) {
