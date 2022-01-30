@@ -1,6 +1,6 @@
-// My first Java program
 
-package com.helloWorld;
+// My first Java program
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
