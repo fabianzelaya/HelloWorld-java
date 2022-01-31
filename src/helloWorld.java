@@ -1,9 +1,14 @@
+import java.util.Scanner;
+
 // My first Java program
 
 public class helloWorld {
     // Output "Hello, World!" to the counsole
     public static void main(String[] args) { // Method
-        System.out.println("Hello " + args[0]);
+        
+        Scanner scan = new Scanner(System.in);
+        
+        //System.out.println("Hello " + args[0]);
         //System.out.println("Hello, World!");
     }
 }
