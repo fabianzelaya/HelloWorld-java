@@ -1,4 +1,4 @@
-# HelloWorld Java
+# HelloWorld Java :earth_americas:
 
 My first "Hello World" Java program in VSC
 
