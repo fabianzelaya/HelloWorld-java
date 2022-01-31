@@ -12,10 +12,10 @@ A `"Hello, World!"` program is generally a computer program that outputs or disp
 public class helloWorld {
     // Output "Hello, World!" to the counsole
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, World!" + args[0]); // Using arguments to create our program dynamic.
     }
 }
-// FZ
+// FZ¡
 ```
 
 ## Thanks for watching!
