@@ -17,3 +17,9 @@ public class helloWorld {
 }
 // FZ
 ```
+
+## Thanks for watching!
+
+If you liked my coding then follow me on my [Instagram](https://www.instagram.com/fabianzelayahn/) account.
+
+<img src="https://ucarecdn.com/e15865bd-4124-458b-98f3-eb56907e7097/FZ_Signature.svg" width="240" height="79.63" />
