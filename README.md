@@ -5,3 +5,15 @@ My first "Hello World" Java program.
 A `"Hello, World!"` program is generally a computer program that outputs or displays the message `"Hello, World!"`. This program is very simple to write in many programming languages, and is often used to illustrate a language's basic syntax. `"Hello, World!"` programs are often the first a student learns to write in a given language, and they can also be used as a sanity test to ensure computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it.
 
 [Lesson: The "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/cupojava/index.html)
+
+```java
+// My first Java program
+
+public class helloWorld {
+    // Output "Hello World" to the counsole
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+// FZ
+```
