@@ -28,4 +28,4 @@ Hello Zelaya
 
 If you liked my coding then follow me on my [Instagram](https://www.instagram.com/fabianzelayahn/) account.
 
-<img src="https://ucarecdn.com/e15865bd-4124-458b-98f3-eb56907e7097/FZ_Signature.svg" width="240" height="79.63" />
+<img src="https://ucarecdn.com/d1a85e63-35f9-41d7-b758-ff05742057d1/GitHub_Black_Signature.png" width="240" height="79.63" />
