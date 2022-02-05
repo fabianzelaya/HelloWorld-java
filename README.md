@@ -18,10 +18,7 @@ public class helloWorld {
 }
 // FZ
 
-/*
-Output:
-Hello Zelaya
-*/
+// Outputs "Hello Zelaya"
 ```
 
 ## Thanks for watching!
