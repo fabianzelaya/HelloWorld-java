@@ -1,4 +1,4 @@
-# "Hello, World!" Java :earth_americas:
+# :earth_americas:"Hello, World!" Java:coffee:
 
 My first "Hello World" Java program.
 
