@@ -12,7 +12,15 @@ public class helloWorld {
         // Output "Hi, my name is Fabian Zelaya." to the counsole
 
         String greeting = "Hello, World";
+        System.out.println(greeting);
+
         String salutations = new String("Hello World");
+        System.out.println(salutations);
+
+        String sFZ = "HELLO EVERYONE, how are you?";
+        String sFZlower = sFZ.toLowerCase();
+        System.out.println(sFZlower);
+        
         System.out.println("\"Hello, World\"");
         System.out.println("Hi and\nGoodbye");
     }
