@@ -22,8 +22,6 @@ public class helloWorld {
 ```
 <img src="https://ucarecdn.com/2f276db0-5641-4956-bfa6-874c35aaebea/ScreenShot20220309at100732AM.png"/>
 
-<img src="https://ucarecdn.com/2f276db0-5641-4956-bfa6-874c35aaebea/ScreenShot20220309at100732AM.png"/>
-
 ## Thanks for watching!
 
 If you liked my coding then follow me on my [Instagram](https://www.instagram.com/fabianzelayahn/) account.
