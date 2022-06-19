@@ -20,6 +20,7 @@ public class helloWorld {
 
 // Outputs "Hello, World!"
 ```
+<img src="https://ucarecdn.com/2f276db0-5641-4956-bfa6-874c35aaebea/ScreenShot20220309at100732AM.png"/>
 
 <img src="https://ucarecdn.com/2f276db0-5641-4956-bfa6-874c35aaebea/ScreenShot20220309at100732AM.png"/>
 
