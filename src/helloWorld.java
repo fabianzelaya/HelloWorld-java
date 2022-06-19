@@ -1,10 +1,20 @@
 // My first Java program
 
 public class helloWorld {
-    // Output "Hello, World!" to the counsole
-    public static void main(String[] args) { // Method
-        System.out.println("Hello " + args[0]);
-        //System.out.println("Hello, World!");
+    public static void main(String[] args) {
+        //The main method executes the tasks of the class
+        System.out.println("Hi, my name is Fabian.");
+        // Output "Hi, my name is Fabian." to the counsole
+
+        String myName = "Fabian";
+        String myLastName = "Zelaya";
+        System.out.println("Hi, my name is " + myName + " " + myLastName);
+        // Output "Hi, my name is Fabian Zelaya." to the counsole
+
+        String greeting = "Hello, World";
+        String salutations = new String("Hello World");
+        System.out.println("\"Hello, World\"");
+        System.out.println("Hi and\nGoodbye");
     }
 }
 // FZ
@@ -17,4 +27,3 @@ public class helloWorld {
 //Properties - Store something.
 //Access modifiers (public or private) - Who can use?.
 //Static - No instance of class is needed.
-//Object - Instance of class.
